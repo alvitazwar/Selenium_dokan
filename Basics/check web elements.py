@@ -1,10 +1,10 @@
 from selenium import webdriver
-import os
+#import os
 import time
 class Webelement():
     def test_web(self):
         driverLocation="D:\\Python\\Files\\chromedriver.exe"
-        os.environ["webdriver.chrome.driver"] = driverLocation
+        #os.environ["webdriver.chrome.driver"] = driverLocation
         driver = webdriver.Chrome(driverLocation)
         baseurl ="https://www.techlistic.com/p/selenium-practice-form.html"
         driver.get(baseurl)
@@ -24,10 +24,20 @@ class Webelement():
         automation.click()
         manual = driver.find_element_by_id("profession-1")
         manual.click()
+        protactor =driver.find_element_by_id("tool-0")
+        protactor.click()
+        sel= driver.find_element_by_id("tool-2")
+        sel.click()
+        component =driver.find_element_by_xpath("//option[.='Antartica']")
+        component.click()
+        command =driver.find_element_by_xpath("//option[.='WebElement Commands']")
+        command.click()
+        upload =driver.find_element_by_css_selector("[name='photo']")
+        upload.send_keys("D://download.jpg")
+        print("Successfully done")
+        
         time.sleep(10)
 
 
 alvi=Webelement()
 alvi.test_web()
-
-

@@ -2,19 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4d54271f-11a6-436d-bdfa-e0a42c16dac7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basics/Addiesoft ticket add.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basics/Customer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basics/Customer_sign_up.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basics/Vendor_Coupon.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basics/Vendor_after_login.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basics/add_student.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basics/dokan test iteration one.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basics/dokan_vendor_reg_final.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basics/yahoo mail automation.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/check web elements.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/check web elements.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/chromeTEst.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/chromeTEst.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/add_student.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/add_student.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/yahoo mail automation.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/yahoo mail automation.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,12 +20,6 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="10" />
-    <option name="y" value="20" />
-    <option name="width" value="1346" />
-    <option name="height" value="728" />
   </component>
   <component name="ProjectId" id="1ZwJJTHg4Km9pcLYqplRyXGy0H4" />
   <component name="ProjectLevelVcsManager">
@@ -185,9 +169,9 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1585744209464" />
-    <state x="384" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1585744159101">
+    <state x="384" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1587103884495">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="384" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1585744159101" />
+    <state x="384" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1587103884495" />
   </component>
 </project>
